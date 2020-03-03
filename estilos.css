@@ -2,6 +2,7 @@
     background-color: #0097A7;
     color: #212121;
 }
+.main.container
 .justify-content-end{
    
     font-family: 'Love Ya Like A Sister';
@@ -11,4 +12,12 @@
 .justify-content-center .h1{
    
     font-family: 'Love Ya Like A Sister' ;
+}
+h1
+{   font-family: 'Nanum Pen Script' ;
+    font-size: 30px;
+
+}
+#contenedor-inferior{
+    background-color: #B2EBF2;
 }
