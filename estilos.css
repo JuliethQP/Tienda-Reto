@@ -21,3 +21,11 @@ h1
 #contenedor-inferior{
     background-color: #B2EBF2;
 }
+#paraeste{
+    font-family: 'Princess Sofia' ;
+    color: #FFC107;
+    
+}
+.list-group-item a{
+    color:#0097A7;
+}
