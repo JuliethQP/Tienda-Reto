@@ -1,34 +1,9 @@
-/*.header{
-    background-color: #0097A7;
-    color: #212121;
+@media (max-width:361px){
+    .hero .headline{
+        font-size: 300%;
+       
+    }
 }
-.main.container
-.justify-content-end{
-   
-    font-family: 'Love Ya Like A Sister';
-    font-family: 'Nanum Pen Script' ;
-
-}
-.justify-content-center .h1{
-   
-    font-family: 'Love Ya Like A Sister' ;
-}
-h1
-{   font-family: 'Nanum Pen Script' ;
-    font-size: 30px;
-
-}
-#contenedor-inferior{
-    background-color: #B2EBF2;
-}
-#paraeste{
-    font-family: 'Princess Sofia' ;
-    color: #FFC107;
-    
-}
-.list-group-item a{
-    color:#0097A7;
-}*/
 .slider{
     position: absolute;
     top: 0;
@@ -89,28 +64,9 @@ section{
     position: absolute;
     opacity: 0.3;
 }
- ul{
-    justify-self: end; 
 
-}
-.nav li{
-    list-style: none;
-
-}
-.nav ul li{
-   display: none;
-    position:absolute; /*posicion de acuedo al ul */
-    min-width: 140px;
-}
-
-.nav  ul li:click{
-    display: block;
-}
-.overflow {
-    -ms-flex: 1;
-    flex: 1;
-    padding-left: 3rem!important;
-    padding-right: 3rem!important;
-    overflow: hidden!important;
+.imagenes{
+    background-image: url('./vestidoAmarillo.jpg');
+  
 }
 
